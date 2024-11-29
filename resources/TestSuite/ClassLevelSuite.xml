@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="API_Automation Smoke Suite">
+    <listeners>
+        <listener class-name="utils.RetryListener" />
+    </listeners>
+    <test name="API Users Testcases">
+        <classes>
+            <class name="userManagement.GetUsersTest" />
+        </classes>
+    </test>
+</suite>

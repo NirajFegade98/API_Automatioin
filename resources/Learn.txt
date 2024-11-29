@@ -1,0 +1,13 @@
+Chapter 10
+Two reports in market
+1. extent report
+2. allure report
+
+to use
+1. import extent report dependency
+2. design HTML report   (Config.html)
+
+Chapter 11:
+1. Serialization and Deserialization
+2. POJO
+3. pojo stands for java class that has private fields and getter setter methods and no arg constructor
